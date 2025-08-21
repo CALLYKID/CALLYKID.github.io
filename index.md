@@ -1,10 +1,10 @@
-# Welcome to My Calisthenics Site 💪
+---
+layout: home
+title: Home
+---
 
-This is my brand-new training site bult with GitHub Pages!
+Welcome to **StreetFit** — practical calisthenics for real people.
 
-- ✅ Workouts
-- ✅ Skill progressions
-- ✅ Programs
-- ✅ Blog (coming soon)
-
-Stay tuned for updates!
+- Follow structured **Programs**
+- Learn core **Skills** (handstand, L-sit, muscle-up)
+- Read our **Blog** for form cues, progressions, and recovery
