@@ -20,3 +20,5 @@ permalink: /workouts/
   - Bulgarian split squats × 8–10/leg
   - Hanging knee raises × 10–12
   - Rest 60–90s
+
+![Handstand](/assets/img/eduardo-madrid-j6amjHxtc1U-unsplash_11zon.jpg "Handstand(One Arm)")
