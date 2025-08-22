@@ -9,3 +9,4 @@ author: You
 twitter_username:
 github_username: YOURUSERNAME
 permalink: /:categories/:title/
+favicon: "/assets/images/favicon.ico"
