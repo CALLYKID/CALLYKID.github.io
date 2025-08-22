@@ -1,0 +1,12 @@
+- title: Home
+  url: /
+- title: Workouts
+  url: /workouts/
+- title: Skills
+  url: /skills/
+- title: Programs
+  url: /programs/
+- title: Blog
+  url: / # (home shows posts)
+- title: Contact
+  url: /contact/
